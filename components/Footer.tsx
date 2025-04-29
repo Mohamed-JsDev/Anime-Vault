@@ -11,7 +11,7 @@ function Footer() {
         height={44}
         className="object-contain"
       />
-      <div className="flex items-center gap-6">
+      {/* <div className="flex items-center gap-6">
         <Image
           src="./tiktok.svg"
           alt="logo"
@@ -33,7 +33,7 @@ function Footer() {
           height={19}
           className="object-contain"
         />
-      </div>
+      </div> */}
     </footer>
   );
 }
