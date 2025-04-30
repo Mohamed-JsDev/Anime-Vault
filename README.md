@@ -1,6 +1,5 @@
 Anime Vault is a comprehensive web application for anime enthusiasts, providing detailed information about anime series and movies with advanced search and tracking features.
 
-![Anime Vault Screenshot](./screenshot.png) <!-- Replace with your actual screenshot -->
 
 ## ✨ Key Features
 
